@@ -12,7 +12,9 @@
 ## ABOUT
 Design of a front-end for Google Search, Google Image Search and Google Advanced Search.
 
+## SPECIFICATION
 My website must meet the following requirements:
+
 * The website should have at least three pages: one for regular Google Search, one for Google Image Search, and one for Google Advanced Search.
 * The CSS write should resemble Google’s own aesthetics.
 * On the Google Search page, the user should be able to type in a query, click “Google Search”, and be taken to the Google search results for that page.
