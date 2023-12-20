@@ -10,10 +10,10 @@
 
 
 ## ABOUT
-Design of a front-end for Google Search, Google Image Search and Google Advanced Search.
+This project consists of creating a front-end design for Google Search, Google Image Search and Google Advanced Search.
 
 ## SPECIFICATION
-My website must meet the following requirements:
+The project must meet the following requirements:
 
 * The website should have at least three pages: one for regular Google Search, one for Google Image Search, and one for Google Advanced Search.
 * The CSS write should resemble Google’s own aesthetics.
